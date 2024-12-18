@@ -21,7 +21,7 @@ Python 3.x
 How to Play:
 1. Clone the repository:
 Copy code
-git clone https://github.com/yourusername/tuple-out-dice-game.git
+git clone https://github.com/Miggy-byte/INST126-Word-Count/blob/193c5f0726fe61c761f85f98a707ffb760d995e9/Tupled_Out2.py
 2. Run the game:
 In your terminal, navigate to the directory containing the script and run it with the following command:
 
