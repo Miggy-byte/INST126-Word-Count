@@ -21,7 +21,7 @@ Python 3.x
 How to Play:
 1. Clone the repository:
 Copy code
-git clone https://github.com/Miggy-byte/INST126-Word-Count/blob/main/Tupled_Out2.py
+git clone https://github.com/Miggy-byte/INST126-Word-Count.git
 2. Run the game:
 In your terminal, navigate to the directory containing the script and run it with the following command:
 
